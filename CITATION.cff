@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LBGAN
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Yuqing
+    family-names: Gao
+identifiers:
+  - type: doi
+    value: 10.1111/mice.12458
+repository-code: 'https://github.com/STAIRlab/LBGAN'
+keywords:
+  - damage identification
+  - structural health monitoring
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Gao"
+    given-names: "Yuqing"
+  - family-names: "Mosalam"
+    given-names: "Khalid"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.1111/mice.12458"
+  journal: "Comput Aided Civ Inf"
+  title: "Deep leaf-bootstrapping generative adversarial network for structural image data augmentation"
+  year: 2019
